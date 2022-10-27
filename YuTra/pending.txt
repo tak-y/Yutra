@@ -1,0 +1,4 @@
+        #Button:
+            #id: ordinary_transport
+            #text: '乗るバスと鉄道の時刻が分かっている'
+            #on_press: root.ordinary_transport()
